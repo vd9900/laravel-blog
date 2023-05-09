@@ -1,0 +1,13 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+h3 {
+    color: #2600ff;
+}
+
+div {
+    max-width: 600px;
+    margin: 5rem auto;
+    border-bottom: 1px solid palevioletred;
+}
